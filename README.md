@@ -1,7 +1,7 @@
 
 # Installation and Setup
 
-## Backend Setup (Laravel)
+## backend setup (laravel)
 
 Open a terminal and navigate to the backend folder
 
@@ -49,7 +49,7 @@ The backend will be available at:
 
 `http://127.0.0.1:8000`
 
-## Frontend Setup (React)
+## frontend setup (react)
 
 Open a **new terminal** and navigate to the frontend folder
 
@@ -69,11 +69,11 @@ The frontend will be available at:
 
 `http://localhost:3000`
 
-## Running the Application
+## running the application
 
 Both development servers must be running simultaneously:
 
-- Laravel backend: `http://127.0.0.1:8000`
-- React frontend: `http://localhost:3000`
+- laravel backend: `http://127.0.0.1:8000`
+- react frontend: `http://localhost:3000`
 
 Open the frontend address in your browser to access the application
